@@ -1,0 +1,25 @@
+
+
+
+/***MAIN****/
+
+main
+{
+  /* background-color: #f4f4f4; */
+  /* background: url(/images/evergreen.jpg); */
+  /* height: 60vh; */
+}
+
+.slider-container
+{
+  /* background-color: #f4f4f4; */
+  /* margin-top: 50px; */
+  /* height: 40vh; */
+  background: url(/images/evergreen.jpg);
+
+  height: 320px;
+}
+
+
+
+
